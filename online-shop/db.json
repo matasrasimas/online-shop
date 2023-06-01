@@ -1,0 +1,43 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Logitech G413 Mechanical Keyboard",
+            "brand": "Logitech",
+            "description": "Brand - Logitech \n Wireless - no \n Weight - 1105g \n Width - 445mm \n Height - 132mm \n Switches - Cherry MX Blue",
+            "category": "Keyboard",
+            "price": 64.99,
+            "img_url": "https://images.kaina24.lt/3130/58/logitech-g413.jpg"
+        },
+    
+        {
+            "id": 2,
+            "title": "Razer Ornata V2 Chroma Keyboard",
+            "brand": "Razer",
+            "description": "Brand - Razer \n Wireless - no \n Weight - 826g \n Width - 76mm \n Height - 200mm",
+            "category": "Keyboard",
+            "price": 57.99,
+            "img_url": "https://www.varle.lt/static/uploads/products/542/raz/razer-keyboard-ornata-v2-gaming-us.jpg"
+        },
+    
+        {
+            "id" : 3,
+            "title": "Corsair K63 Mechanical Keyboard",
+            "brand": "Corsair",
+            "description": "Brand - Corsair \n Wireless - no \n Weight - 645g \n Width - 200mm \n Height - 53mm \n Switches - Cherry MX Red",
+            "category": "Keyboard",
+            "price": 84.05,
+            "img_url": "https://ksd-images.lt/display/aikido/store/42fc85989bacbfc622470b8ed5c9f858.jpg"
+        },
+    
+        {
+            "id": 4,
+            "title": "Ducky One 2 Mini Mechanical Keyboard",
+            "brand": "Ducky",
+            "description": "Brand - Ducky \n Wireless - yes \n Weight - 590g \n Width - 150mm \n Height - 23mm \n Switches - Cherry MX Black",
+            "category": "Keyboard",
+            "price": 104.80,
+            "img_url": "https://gameroom.lt/40579/ducky-one-2-mini-rgb-gaming-keyboard-us-black-switch.jpg"
+        }
+    ]
+}
